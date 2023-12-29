@@ -7,18 +7,7 @@
 [![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SchwallerGroup)](https://github.com/schwallergroup)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/SchwallerGroup)
 [![WebPage](https://img.shields.io/badge/LIAC-red?&style=for-the-badge)](https://schwallergroup.github.io/)
-![Views](https://komarev.com/ghpvc/?username=schwallergroup&style=flat-square&color=blue)
-
-<p align='center'>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/assets/logo_liac.png" width='30%'>
-  <source media="(prefers-color-scheme: light)" srcset="/assets/logo_liac.png" width='30%'>
-  <img alt="Project logo" src="/assets/" width="30%" align='center'>
-</picture>
-</p>
-
-
- 
+![Views](https://komarev.com/ghpvc/?username=schwallergroup&style=flat-square&color=blue) 
 
 <p float="left">
   <strong>The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 
