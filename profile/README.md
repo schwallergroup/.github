@@ -8,16 +8,25 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/SchwallerGroup)
 [![WebPage](https://img.shields.io/badge/LIAC-red?&style=for-the-badge)](https://schwallergroup.github.io/)
 ![Views](https://komarev.com/ghpvc/?username=schwallergroup&style=flat-square&color=blue)
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_liac.png" width='50%'>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/logo_liac.png" width='50%'>
-  <img alt="Project logo" src="/assets/" width="50%">
-</picture>
 
-The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 
+<p align='center'>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/logo_liac.png" width='30%'>
+  <source media="(prefers-color-scheme: light)" srcset="/assets/logo_liac.png" width='30%'>
+  <img alt="Project logo" src="/assets/" width="30%" align='center'>
+</picture>
+</p>
+
+
+ 
+
+<p float="left">
+  <strong>The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 
 
 The lab is led by Prof. [Philippe Schwaller](https://twitter.com/pschwllr).
+</strong>
+</p>
+
 
 ---
 
