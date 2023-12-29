@@ -10,9 +10,9 @@
 ![Views](https://komarev.com/ghpvc/?username=schwallergroup&style=flat-square&color=blue)
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_liac.png" width='100%'>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/logo_liac.png" width='100%'>
-  <img alt="Project logo" src="/assets/" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_liac.png" width='50%'>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo_liac.png" width='50%'>
+  <img alt="Project logo" src="/assets/" width="50%">
 </picture>
 
 The Laboratory of Artificial Chemical Intelligence (LIAC) is part of the Institute of Chemistry and Chemical Engineering at Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 
